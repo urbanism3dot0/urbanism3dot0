@@ -13,15 +13,19 @@ There is an opportunity for a community-collective to champion the production of
 
 note: the term "crypto" is a shortcut to "cryptographic blockchain technology"
   
-## THE ZEROX DECENTRALIZED DESIGN AND DEVELOPMENT RESEARCH LAB
+## DECENTRALIZED DESIGN AND RESEARCH INSTITUTE
 #### URBANISM 3.0 WILL SHAPE THE FUTURE OF CITIES AND FORM THE METROPOLIS OF THE FUTURE
-We are introducing a research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urbanism and to help shape the ultimate abstract foundational layer for  Urbanism 3.0:  A decentralised platform comprised of protocols and applications, built on top of a programmable blockchain enabling anyone to build new private cities and create their own arbitrary rules for ownership and governance of the commons.<br><br>
-Decentralised participation is at the heart of this project in which self-organised teams of international researchers come to the lab to collaborate on complex problems that necessitate progressive and shared ideas to construct our cities. <br><br>
-This is a new type of lab that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research for the cities of the future.
-The lab operates as an open-source research hub with permissionless access for open public discussion and joint development enabling all relevant disciplines to come together and increase collaboration across the field.Its native token economy creates a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
-The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The crypto-ubanism framework of research is comprised of three pillars
-#### VISION
-* DDRL will be the first lab to decentralise the process of creating a vision for the future of our cities. Details TBD.   
+We are introducing a decentralized institute to help bridge the technologies and ecosystem of Ethereum with the field of Urbanism and to help shape the ultimate abstract foundational layer for  Urbanism 3.0:  A decentralised platform comprised of protocols and applications, built on top of a programmable blockchain enabling anyone to build new private cities and create their own arbitrary rules for ownership and governance of the commons.<br><br> Decentralised participation is at the heart of this institute in which self-organised teams of international researchers join to collaborate on complex problems that necessitate progressive and shared ideas to construct our cities. <br><br>
+This is a new type of institute that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research for the cities of the future.
+The institute operates as an open-source research hub with permissionless access for open public discussion and joint development enabling all relevant disciplines to come together and increase collaboration across the field.<br>
+
+## RESEARCH DOMAIN
+The Institute is a work in progress that challenges the norms of how we conceive, build and live within our environment. The crypto-ubanism framework of research is comprised of three pillars
+#### FUTURE CITIES VISION: INTEGRATED STORYTELLING
+Urbanism 3.0 will be the first to decentralise the process of creating a vision for the future of our cities. 
+How  will enable a global community to link different stories together and collectively shape the visions of our collective futures?<br>
+The challenge for cities will be to create stories that are compelling and interesting enough to get people to pay attention. They will also need to find ways to make sure that these stories are accessible to everyone, regardless of their level of technical expertise. 
+$DDRL will be the first project to decentralise the process of creating a vision for the future of our cities. Each $DDRL holder serves as part of the storytelling process enabling them to vote on key aspects of a vision, including storyline, characters, and art. 
 #### CITY FORMATION MODELS  
 * Everything about design and growth models based on protocols 
 #### PROTOCOLS  
@@ -63,27 +67,34 @@ Fractional ownership in public goods or a city is a new paradigm that is creatin
 In its final form the Urbanism 3.0 exposes a metaverse that becomes the interface to our physical urban and architectural environment. It is populated by avatar representations of real people that collectively own the cyber-urban space and the physical city.
 The new  environment that enables cyber-to-urban interactions is where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules
 
+## URBANISM 3.0 COLLECTIVE
+A new meta-experiment begins today in applied research: The Urbanism 3.0 Collective is a new model of digital democratic governance optimized to drive rapid and sustained growth of a decentralized ecosystem in the field of urbanism.
 
-## THE $DDRL Token Unlocks Unique Participation in Future Experiences and Storylines
-The $DDRL token is live! The official contract address is: 
-* $DDRL VENDING MACHINE: [0x16a85E619709769dC275cF9284F8C835A8EbeC78](https://etherscan.io/address/0x16a85e619709769dc275cf9284f8c835a8ebec78#writeContract)<br>
-* This is a smart contract vending machine to sell the tokens at fixed price of ETH 0,001<br> The exchange rate is $DDRL 1000 tokens per ETH
+We are creating the Urbanism 3.0 Collective. A global community of researchers, practitioners, and citizens who are committed to the advancement of urbanism through the use of web3 technologies.
 
-* $DDRL TOKEN TREASURY: [0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4](https://etherscan.io/address/0x604183b3ce47ff4cc627ced93fa75acb42a3a5a4)
+The Urbanism 3.0 Collective is a platform for the co-creation and sharing of knowledge about the cities of the future and the governance of the commons, the public goods governed by communities.
 
-* CREATOR: [phaethon.eth @ 0x427759bFe7b72E06eC6c8a4DA9AB1994F8315A29](https://etherscan.io/address/0x427759bfe7b72e06ec6c8a4da9ab1994f8315a29)
+The form and function of this governance are intentionally open-ended, and will evolve with community participation, growth, and learning.
 
-#### Token design
-$DDRL is our foundational token with a Circulation Supply 220,000,000 token. It is designed as participatory token to unlock the value of the network.
+How is Urbanism 3.0 governed?
+The core governing structure of Urbanism 3.0 is established as a collaboration between the Institute, the House of CyberUrban Commons and the House of Lords of the Tokens. 
+* the House of CyberUrban Commons is the building community
+* the House of Lords of the Tokens. The House of Lords of the Tokens scrutinises bills that have been approved by the House of CyberUrban Commons
+* the Institute consists of r+d experts appointed by token holders. 
+
+### Phase 1 membership 
+At phase 1 the token functions as a membership contribution. 100,000 are are available for purchase at a fixed price of 0.01 ETH from a vending machine.
+Phase 1 will end when the tokens are sold and the number of owners are more than 1000 account addresses.
+The economics of this ecosystem are designed to generate value for the original owners through sequential airdrops and provide them with additional rewards related to participation.
+The wide variety of funding mechanisms ensures that airdrops constantly flow to users who make valuable contributions to the ecosystem. Each phase can be thought of as a parallel experiment in token allocation, enabling rapid iteration and doubling down on what works to further grow the ecosystem
+Phase 2 TBD
+### Token design
+$DDRL is our foundational token with a Circulation Supply 4,500,000,000 tokenS. It is designed as participatory token to unlock the value of the network.
 The token enables holders to participate in the decision making process and vote on the direction and implementation of the research 
-The purpose of the token system is to enable the organic formation of permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br><br>
+The purpose of this market is to enable the organic formation of permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br><br>
 Additional features:
-#### Decentralised Integrated storytelling: 
-How $DDRL will enable a global community to link different stories together and collectively shape the visions of our collective futures?<br>
-The challenge for cities will be to create stories that are compelling and interesting enough to get people to pay attention. They will also need to find ways to make sure that these stories are accessible to everyone, regardless of their level of technical expertise. 
-$DDRL will be the first project to decentralise the process of creating a vision for the future of our cities. Each $DDRL holder serves as part of the storytelling process enabling them to vote on key aspects of a vision, including storyline, characters, and art.  
 
-#### Exclusive Art and Behind-the-Scenes Access: 
+### THE $DDRL Token Unlocks Unique Participation in Future Experiences and Storylines
 In addition to exclusive access to future NFT drops, $DDRL token holders that vote on the vision building process will receive exclusive art and behind-the-scenes content from their favourite creators. Details TBD
 
 #### Governance and Delegation of voting power 
@@ -91,9 +102,14 @@ TBD
 #### Incentives and reward system
 TBD
 
-
 ## CONTRACTS
-TBD
+The $DDRL token is live! The official contract address is: 
+* $DDRL VENDING MACHINE: [0x...]<br>
+* This is a smart contract vending machine to sell the tokens at fixed price of ETH 0,001<br> The exchange rate is $DDRL 1000 tokens per ETH
+
+* $DDRL TOKEN TREASURY: [0x6041...]
+
+* CREATOR: [phaethon.eth @ 0x427759bFe7b72E06eC6c8a4DA9AB1994F8315A29](https://etherscan.io/address/0x427759bfe7b72e06ec6c8a4da9ab1994f8315a29)
 
 ## UPCOMING EVENTS
 
