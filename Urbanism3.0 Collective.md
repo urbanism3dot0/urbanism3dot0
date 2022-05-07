@@ -1,6 +1,6 @@
 Urbanism 3.0 introduces a fundamentally new class of cities that are connected to cryptoeconomic organisms — decentralized, entities that exist entirely in cyberspace. Pairing is achieved and maintained by a combination of cryptography, economics, and social consensus.<br><br>
 
-Urbanism 3.0 does this by providing the ultimate abstract foundational layer for cities built on top of a programmable blockchain: A  platform where we can program protocols and decentralized applications that require distributed consensus among citizens allowing anyone to create and test their own arbitrary rules for the cities of the future. <br><br>
+Urbanism 3.0 does this by providing the ultimate abstract foundational layer for cities built on top of a programmable blockchain: A  platform where we can program protocols and decentralized applications to connect the physical and the cybers space, allowing communities to collectively form the cities of the future. <br><br>
 In general, there are three categories of applications on top of Urbanism 3.0:
 
 The first category makes possible a model of common resources ecosystems, in three types of environments, the cyber, the urban and the Earth's, where citizens, both individually and collectively own, govern, and make the most of their common resources. To do this we create programmatically a digital asset on-blockchain and assign it, through a protocol, to a property right of a public good. With this process we create a "pair" of a property right with a digital asset. All types of common resources and property rights can be organised as pairs. Possible Pools of pairs include: the public space, urban infrastructure such as roads, public utility corporation for energy production, and ofcourse the commons. Pairs can be traded with decentralized Autonomous Market Maker enabling novel forms of assets and governance of the commons.
@@ -21,13 +21,26 @@ Urbanism 3.0 offers a better model for how societies should design and develop c
 
 We are introducing the urbanism 3.0 collective: an experiment to enable a collective of people to jointly contribute to the development of an Institution backed by fractional ownership of the institution itself, thus providing a way to align incentives and share the benefits of future outcomes.
 
-There is an opportunity for a new type of institute that operates as an open-source research hub with permissionless access for open public discussion and joint development enabling all relevant disciplines to come together and increase collaboration across the field.
+There is an opportunity for a new type of institute for urabnism 3.0 that operates as an open-source research and education hub with permissionless access  enabling all relevant disciplines to come together and increase collaboration across the field. Our vision is to sustainably fund applied research and put Urbanism 3.0 in the center of climate change 
 
 
-is organized as a decentralized cooperative on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research for the cities of the future. The institute 
-to create a decentralized organization dedicated to growing the ecosystem, developing applied research, and establishing urbanism 3.0 as a new area of study. 
+### ECONOMICS
 
-as an NFT split in 16,969,696,969 $U3 fractions. This allows anyone to purchase a membership to the network: An independent decentralized network, deployed as a cooperative on a blockchain. It is an experiment dedicated to:
+Urbanism 3.0 collective is organised with the use of an NFT split in 16,969,696,969 $U3 fractions. This allows anyone to purchase a membership to the network: An independent decentralized network, deployed as a cooperative on a blockchain.
+
+
+#### Revenue is distributed to public goods
+
+
+#### PHASE 0: Token distribution
+
+
+#### PHASE 1: Token distribution
+
+
+
+
+EVENT DESCRIPTION
 #### Create a decentralized network
 * Citizens to contribute. a global community to link different stories together and collectively shape the visions of our collective futures!
 
