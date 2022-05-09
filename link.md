@@ -1,7 +1,10 @@
 
 Urbanism 3.0 introduces a fundamentally new class of cities that are connected to crypto-economic organisms — decentralized, entities that exist entirely in cyberspace. The pairing of the cyber and physical world is achieved and maintained by a combination of cryptography, economics, and social consensus.<br><br>
-Urbanism 3.0 provides a platform of composable protocols, code-blocks built on top of a programmable blockchain to allow for the assembly of hierarchical meta-protocols from mix and match lego bricks.<br>
-The intention of Urbanism 3.0 is to provide Hybrid pair contracts. A novel type of mechanism specifically designed to connect any type of common resource, organization or property right to a digital asset creating a "hybrid-pair". The digital representation of physical assets and property rights  on chain,  verified by access through oracles, to real-world data and off-chain computation, enables a new categories of applications. This includes:
+The intention of Urbanism 3.0 is to create a programmable working framework for applied research, enable societies harness the power of urbanization, by building more and better cities. Urbanism 3.0 requires two key elements: 
+#### A programmable platform of composable code-blocks, 
+code-blocks built on top of a programmable blockchain to allow for the assembly of hierarchical meta-protocols from mix and match lego bricks.<br>
+#### Hybrid pair protocols. 
+A novel type of mechanism specifically designed to connect any type of common resource, organization or property right to a digital asset creating a "hybrid-pair". The digital representation of physical assets and property rights  on chain,  verified by access through oracles, to real-world data and off-chain computation, enables a new categories of applications. This includes:
 * Governance through Autonomous Markets
 A Pair can be traded with decentralized Autonomous Market Maker enabling novel forms of assets and governance of the commons
 
