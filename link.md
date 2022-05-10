@@ -13,7 +13,9 @@ More particularly we can create:
 * Governance through Autonomous Markets
 A Pair can be traded with decentralized Autonomous Market Maker enabling novel forms of assets and governance of the commons
 
-The intention of Urbanism 3.0 is to create a programmable working framework for applied research, enable societies harness the power of urbanization, by building more and better cities. Urbanism 3.0 requires two key elements: 
+Urbanism 3.0 offers alternatives for how societies should design and develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.
+
+intends to create a programmable platform for applied research, that takes design, economics and policy as input to enable programmable protocols that 
 
 #### Hybrid pair protocols. 
 A novel type of mechanism specifically designed to connect any type of common resource, organization or property right to a digital asset creating a "hybrid-pair". The digital representation on-chain of physical assets and property rights, is verified by access to real-world data and off-chain computation. This includes:
@@ -28,8 +30,9 @@ Urbanism 3.0 enables the combination of top down urban planning and organic form
 Urbanism 3.0 introduces a
 
 ## The Collective Institute
-We are introducing a decentralized institute to help bridge the technologies and ecosystem of WEB3 with the field of Urbanism and to help form Urbanism 3.0 as an area of study and applied research. The Institute is an experiment in collective participation. It starts as a collective loosely organized on the Ethereum network as a community with a membership token in common and nothing more than a mutual understanding where we want to go.<br>
+We are introducing a decentralized institute to help bridge the technologies and ecosystem of WEB3 with the field of Urbanism and to help form Urbanism 3.0 as an area of study and applied research.
 The urbanism 3.0 collective: an experiment to enable decentralised participation  of people to jointly contribute to the development of an Institution backed by fractional ownership of the institution itself, thus providing a way to align incentives and share the benefits of future outcomes.
+The Institute is an experiment in collective participation. It starts as a collective loosely organized on the Ethereum network as a community with a membership token in common and nothing more than a mutual understanding where we want to go.<br>
 
 
 ## The mission
