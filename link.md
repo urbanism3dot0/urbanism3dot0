@@ -1,9 +1,12 @@
 
 Urbanism 3.0 introduces a fundamentally new class of cities that are connected to crypto-economic organisms — decentralized, entities that exist entirely in cyberspace. The pairing of the cyber and physical world is achieved and maintained by a combination of cryptography, economics, and social consensus.<br><br>
-The "Hybrid Pair" protocol make possible a model of common resources ecosystems, where citizens, both individually and collectively own, govern, and make the most of their common resources. The interoperability between realities and systemsis achieved with a mechanism specifically designed to connect any type of common resource, organization or property right to a digital asset creating a "hybrid-pair". The digital representation on-chain of physical assets and property rights, is verified by access to real-world data and off-chain computation<br>
+
 In its final form Urbanism 3.0, exposes a metaverse-interface specifically designed to enable interactions from the cyber world to our physical urban and architectural environment. 
 The cyber-to-real life metaverse is populated by avatar representations of real people that create a new era of [cyber-urban life] [insert] in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules<br><br>
 The interoperability is a critical feature of Urbanism 3.0 and is only possible because the underlying blockchain technology provide a [insert] of distributed consensus among citizens.
+
+The "Hybrid Pair" protocol make possible a model of common resources ecosystems, where citizens, both individually and collectively own, govern, and make the most of their common resources. The interoperability between realities and systemsis achieved with a mechanism specifically designed to connect any type of common resource, organization or property right to a digital asset creating a "hybrid-pair". The digital representation on-chain of physical assets and property rights, is verified by access to real-world data and off-chain computation<br>
+
 What Urbanism 3.0 intends to provide is a programmable platform of composable code-protocols that can be used as lego blocks to assemble higher order systems that include: Autonomous design systems, self-organizing based o protocols, for the city to enable people to create collective participatory systems for the design, development, and governance of any the systems that comprise the complex system of the city. 
 More particularly we can create: 
 * Private cities and Autonomous Crypto-Economic Zones entirely on blockchain. We can unlock the potential of communities to create public....
