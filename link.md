@@ -1,5 +1,8 @@
 
 Urbanism 3.0 introduces a fundamentally new class of cities that are connected to crypto-economic organisms — decentralized, entities that exist entirely in cyberspace. The pairing of the cyber and physical world is achieved and maintained by a combination of cryptography, economics, and social consensus.<br><br>
+
+In its final form Urbanism 3.0, exposes a metaverse-interface specifically designed to enable interactions from the cyber world to our physical urban and architectural environment. The "pairing protocols" make possible a model of common resources ecosystems, where citizens, both individually and collectively own, govern, and make the most of their common resources.
+The cyber-to-real life metaverse is populated by avatar representations of real people that create a new era of [cyber-urban life] [insert] in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules<br><br>
 The intention of Urbanism 3.0 is to create a programmable working framework for applied research, enable societies harness the power of urbanization, by building more and better cities. Urbanism 3.0 requires two key elements: 
 #### A programmable platform of composable code-blocks, 
 code-blocks built on top of a programmable blockchain to allow for the assembly of hierarchical meta-protocols from mix and match lego bricks.<br>
