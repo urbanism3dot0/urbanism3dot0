@@ -28,7 +28,13 @@ Urbanism 3.0 enables the combination of top down urban planning and organic form
 Urbanism 3.0 introduces a
 
 ## The Collective Institute
+We are introducing a decentralized institute to help bridge the technologies and ecosystem of WEB3 with the field of Urbanism and to help form Urbanism 3.0 as an area of study and applied research. The Institute is an experiment in collective participation. It starts as a collective loosely organized on the Ethereum network as a community with a membership token in common and nothing more than a mutual understanding where we want to go.<br>
+The urbanism 3.0 collective: an experiment to enable decentralised participation  of people to jointly contribute to the development of an Institution backed by fractional ownership of the institution itself, thus providing a way to align incentives and share the benefits of future outcomes.
+
 
 ## The mission
+The mission of the Decentralized Collective Institute of Urbanism 3.0 DCIU3) is to establish a new theoretical and applied research platform to create knowledge and decentralized applications that can be used to create more and better cities faster and harness the power of urbanization to bring up to the world standard entire regions.<br>
+
+Why do we need Urbanism 3.0?
 
 ## T
