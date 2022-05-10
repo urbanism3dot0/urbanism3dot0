@@ -13,9 +13,8 @@ More particularly we can create:
 * Governance through Autonomous Markets
 A Pair can be traded with decentralized Autonomous Market Maker enabling novel forms of assets and governance of the commons
 
-Urbanism 3.0 offers alternatives for how societies should design and develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.
 
-intends to create a programmable platform for applied research, that takes design, economics and policy as input to enable programmable protocols that 
+
 
 #### Hybrid pair protocols. 
 A novel type of mechanism specifically designed to connect any type of common resource, organization or property right to a digital asset creating a "hybrid-pair". The digital representation on-chain of physical assets and property rights, is verified by access to real-world data and off-chain computation. This includes:
@@ -26,18 +25,31 @@ This would also enable novel form of incentives structures that would help solve
 * Joint development of cities with Public-community partnerships.
 providing communities with more powerful ways of building cities collectively and entering into public-community contracts using their money. This includes creating and managing special crypto-economic zones, sub-currencies, financial derivatives, hedging contracts, savings wallets, wills, and ultimately even some classes of full-scale employment contracts
 
-Urbanism 3.0 enables the combination of top down urban planning and organic formation of cities by enabling citizens to participate in the urban creation process through decentralized social consensus.
-Urbanism 3.0 introduces a
 
-## The Collective Institute
-We are introducing a decentralized institute to help bridge the technologies and ecosystem of WEB3 with the field of Urbanism and to help form Urbanism 3.0 as an area of study and applied research.
-The urbanism 3.0 collective: an experiment to enable decentralised participation  of people to jointly contribute to the development of an Institution backed by fractional ownership of the institution itself, thus providing a way to align incentives and share the benefits of future outcomes.
-The Institute is an experiment in collective participation. It starts as a collective loosely organized on the Ethereum network as a community with a membership token in common and nothing more than a mutual understanding where we want to go.<br>
+
+## The Institute
+We are introducing a decentralized institute to help bridge the technologies and ecosystem of WEB3 with the field of Urbanism and to help form Urbanism 3.0 as an area of study and applied research. The purpose of the institute is to use Urbanism 3.0 to create more and better cities faster and harness the power of urbanization to bring up to the world standard entire regions.<br>
+
+Why do we need Urbanism 3.0?
+Urbanism 3.0 create alternatives for how societies should design and develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.
+
+## The Collective
+The urbanism 3.0 collective: an experiment to enable decentralised participation  of people to jointly contribute to the development of an Institution backed by fractional ownership of the institution itself, thus providing a way to align incentives and share the benefits of future outcomes.<br>
+We identify opportunity in:
+Public-Community partnerships in Crypto Economic Zones. There is an opportunity for a decentralized cooperative to champion the production of the first collectively-owned Autonomous City, and create a new era for cities. The Institute aims to become a...
+
 
 
 ## The mission
-The mission of the Decentralized Collective Institute of Urbanism 3.0 DCIU3) is to establish a new theoretical and applied research platform to create knowledge and decentralized applications that can be used to create more and better cities faster and harness the power of urbanization to bring up to the world standard entire regions.<br>
+The mission of the Decentralized Collective Institute of Urbanism 3.0 DCIU3) is:
+* to establish a new theoretical and applied research platform to create knowledge and decentralized applications. .<br>
+* To identify and create opportunities
+* to sustainably fund applied research
 
-Why do we need Urbanism 3.0?
 
-## T
+
+
+There is an opportunity for a new type of institute for urabnism 3.0 that operates as an open-source research and education hub with permissionless access enabling all relevant disciplines to come together and increase collaboration across the field. Our vision is to sustainably fund applied research and put Urbanism 3.0 in the center of climate change
+
+## !
+The Institute starts as a collective loosely organized on the Ethereum network as a community with a membership token in common and nothing more than a mutual understanding where we want to go.<br>
