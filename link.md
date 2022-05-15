@@ -27,7 +27,15 @@ Public-Community partnerships in Crypto Economic Zones. There is an opportunity 
 
 
 ## The experiment
-The purpose of this collective experiment is to unlock the potential of web3 communities [to offer solutions on global problems.] to change the world. The idea that web3 can inform the design of a better tomorrow is a powerful one. Web3 represents a chance to reimagine our collective future and rebuild [our relation to the planet] on first principles. 
+We are introducing a collective experiment to unlock the potential of communities to use web3 technologies [to offer solutions on global problems.] to change the world. The idea that web3 can inform the design of a better tomorrow is a powerful one. Web3 represents a chance to reimagine our collective future and rebuild [our relation to the planet] on first principles. <br>
+What Web3 offers is a unique system to imagine and prototype complex socio-economic and political systems of the future,  and the tools for realizing these worlds. <br>
+#### This transformational potential of web3 is blocked because:
+* There are no visions associated with web3 technologies and a clear pathway to arrive there is lacking. <br>
+* There is a lack of technical understanding and comprehensive documentation, which makes it very difficult for non-technical users (such as myself) to understand the technologies. The Web3 community needs to reach out to a non-technical audience to increase the adoption of the technologies.
+
+* Lack of developing context. Web3 is being kept inside the internet bubble. Developers are working inside a vacuum because of the lack of context.
+Innovations vs radical ideas
+* The biggest barrier to widespread adoption is the lack of accessible, useful, and meaningful applications that sit on top of web3.
 
 
 
