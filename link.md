@@ -26,16 +26,13 @@ Public-Community partnerships in Crypto Economic Zones. There is an opportunity 
 
 
 
-## The mission
-The mission of the Decentralized Collective Institute of Urbanism 3.0 DCIU3) is:
-* to establish a new theoretical and applied research platform to create knowledge and decentralized applications. .<br>
-* To identify and create opportunities
-* to sustainably fund applied research
+## The experiment
+The purpose of this collective experiment is to unlock the potential of web3 communities [to offer solutions on global problems.] to change the world. The idea that web3 can inform the design of a better tomorrow is a powerful one. Web3 represents a chance to reimagine our collective future and rebuild [our relation to the planet] on first principles. 
 
 
 
 
-There is an opportunity for a new type of institute for urabnism 3.0 that operates as an open-source research and education hub with permissionless access enabling all relevant disciplines to come together and increase collaboration across the field. Our vision is to sustainably fund applied research and put Urbanism 3.0 in the center of climate change
+
 
 ## !
 The Institute starts as a collective loosely organized on the Ethereum network as a community with a membership token in common and nothing more than a mutual understanding where we want to go.<br>
