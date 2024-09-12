@@ -26,16 +26,29 @@ Public-Community partnerships in Crypto Economic Zones. There is an opportunity 
 
 
 
-## The mission
-The mission of the Decentralized Collective Institute of Urbanism 3.0 DCIU3) is:
-* to establish a new theoretical and applied research platform to create knowledge and decentralized applications. .<br>
-* To identify and create opportunities
-* to sustainably fund applied research
+## The experiment
+Designing Web3 Futures to Change the World
+The idea that Web3 tech can form the foundational layer to imagine and prototype complex socio-economic and political systems of the future, has the potential to change the world.  Web3 also provides the technology stack and tools for realizing these worlds.  If web3 can demonstrate a brighter future and maps the path to it, we will all rush towards that outcome and that will create a movement that will benefit humanity and the planet.<br>
+
+This transformational power remains unused because it is too complex and daunting for any small team or organization to tackle alone. In this era of unprecedented change, no single team or organization can begin to design radical new solutions that disrupt conventional thinking and that inform a rich and unexpected world without deep collaboration between multiple stakeholders of all types including communities and local governance.<br>
+
+Because of the barrier to entry into complex fields in real life, the development of Web3 applications is being kept inside the internet bubble. Web3 has stunned the world by forging a parallel system of finance of unprecedented flexibility and creativity in less than a decade.<br>
+
+
+We are introducing a collective experiment to unlock the potential of communities to use web3 technologies [to offer solutions on global problems.] to change the world. The idea that web3 can inform the design of a better tomorrow is a powerful one. Web3 represents a chance to reimagine our collective future and rebuild [our relation to the planet] on first principles. <br>
+What Web3 offers is a unique system to imagine and prototype complex socio-economic and political systems of the future,  and the tools for realizing these worlds. <br>
+#### This transformational potential of web3 is blocked because:
+* There are no visions associated with web3 technologies and a clear pathway to arrive there is lacking. <br>
+* There is a lack of technical understanding and comprehensive documentation, which makes it very difficult for non-technical users (such as myself) to understand the technologies. The Web3 community needs to reach out to a non-technical audience to increase the adoption of the technologies.
+
+* Lack of developing context. Web3 is being kept inside the internet bubble. Developers are working inside a vacuum because of the lack of context.
+Innovations vs radical ideas
+* The biggest barrier to widespread adoption is the lack of accessible, useful, and meaningful applications that sit on top of web3.
 
 
 
 
-There is an opportunity for a new type of institute for urabnism 3.0 that operates as an open-source research and education hub with permissionless access enabling all relevant disciplines to come together and increase collaboration across the field. Our vision is to sustainably fund applied research and put Urbanism 3.0 in the center of climate change
+
 
 ## !
 The Institute starts as a collective loosely organized on the Ethereum network as a community with a membership token in common and nothing more than a mutual understanding where we want to go.<br>
